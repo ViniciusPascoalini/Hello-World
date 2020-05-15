@@ -1,0 +1,1 @@
+pg 65. linha 5. "Elas podem serem *(SER) de diversas formas"
